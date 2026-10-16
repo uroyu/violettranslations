@@ -1,7 +1,7 @@
 {
-	"code": "", //two letter language code here (like en, es, ja, etc.)
-	"name": "", //the name of the language here (Please put this in the language that the translation is for, for example, Español is correct, Spanish is not)
-	"rtl": false, //whether or not the language is right to left, should usually be left false besides specific languages
+	"code": "", 
+	"name": "", 
+	"rtl": false, 
 	"strings": {
 		"app.close": "Close",
 		"app.reconnect": "Reconnect",
