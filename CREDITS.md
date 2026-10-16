@@ -1,4 +1,4 @@
-# CREDITS FOR TRANSLATIONS
+# CREDITS
 
 ## uroyu  
 Japanese UI Translation for https://violetproject.net
