@@ -3,7 +3,8 @@
 This is the repository for simplifying the translation and location mapping process for the site and locations in games hosted on the site, as well as making the already made translations more accessible, 
 
 Site UI translations are in /gamepage/lang
-Game location translations are in /locations
+
+Game locations + location translations are in /locations
 
 # UI Translations
 
