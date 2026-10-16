@@ -1,4 +1,4 @@
-# Violetproject Locations And Translations
+# Violetproject Locations And Translations 
 
 This is the repository for simplifying the translation and location mapping process for the site and locations in games hosted on the site, as well as making the already made translations more accessible, 
 
