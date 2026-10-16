@@ -1,3 +1,5 @@
+# Violetproject Translations
+
 This is the repository for simplifying the translation process for games and locations on our site, as well as making the already made translations more accessible
 
 Site UI translations are in /gamepage/lang
