@@ -1,6 +1,6 @@
-# Violetproject Translations
+# Violetproject Locations And Translations
 
-This is the repository for simplifying the translation process for games and locations on our site, as well as making the already made translations more accessible
+This is the repository for simplifying the translation and location mapping process for the site and locations in games hosted on the site, as well as making the already made translations more accessible, 
 
 Site UI translations are in /gamepage/lang
 Game location translations are in /locations
@@ -26,4 +26,8 @@ Then, replace all the map names with the target languages translation.
 
 After that, rename the file to gamename_twolettercode (example: blackrain_jp) and make a pull request here (file should be in /locations) or send it to me on discord at "violetsitas"
 
+# Locations
 
+If you want to help with the location mapping itself, you can edit the base file for a game and add location names there linked to the map id, or edit the location names if they are incorrect or outdated
+
+Then, make a pull request replacing the file, or send it to me on discord at "violetsitas"
