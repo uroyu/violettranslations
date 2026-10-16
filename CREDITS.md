@@ -2,6 +2,7 @@
 
 ### uroyu  
 Japanese UI Translation for https://violetproject.net
+
 Japanese Location Translation for Black Rain
 
 ### Zarkv 
