@@ -17,3 +17,13 @@ Then, replace all the strings below with the translation for your language which
 
 Once you have translated all the text, rename the file to your two letter language code from before (example: en.json)
 Then. make a pull request to this repository (file should be in /gamepage/lang/ or send it to me on discord at "violetsitas".
+
+# Location Translations
+
+To make a location translation for a game, download the games base location file first. 
+
+Then, replace all the map names with the target languages translation.
+
+After that, rename the file to gamename_twolettercode (example: blackrain_jp) and make a pull request here (file should be in /locations) or send it to me on discord at "violetsitas"
+
+
