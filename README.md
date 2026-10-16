@@ -3,6 +3,8 @@ This is the repository for simplifying the translation process for games and loc
 Site UI translations are in /gamepage/lang
 Game location translations are in /locations
 
+# UI Translations
+
 To make a UI translation, download sitetemplate.json and fill out the first three lines.
 
 The first line should have the two letter code for the language. 
