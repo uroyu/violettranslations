@@ -2,7 +2,7 @@
 
 This is the repository for simplifying the translation and location mapping process for the site and locations in games hosted on the site, as well as making the already made translations more accessible, 
 
-# [Credits](CREDITS.MD)
+# [Credits](CREDITS.md)
 
 Site UI translations are in /gamepage/lang
 
