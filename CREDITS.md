@@ -7,3 +7,6 @@ Japanese Location Translation for Black Rain
 
 ## Zarkv 
 Spanish UI Translation for https://violetproject.net
+
+## Polar
+Portuguese UI Translation for https://violetproject.net
