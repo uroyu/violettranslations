@@ -8,6 +8,8 @@ Site UI translations are in /gamepage/lang
 
 Game locations + location translations are in /locations
 
+Check to make sure a language is not already translated fully before making a translation :3 
+
 # UI Translations
 
 To make a UI translation, download sitetemplate.json and fill out the first three lines.
