@@ -13,3 +13,7 @@ Portuguese UI Translation for https://violetproject.net
 
 ## ZLD
 Russian UI Translation for https://violetproject.net
+
+## isoginyu
+
+Italian UI Translation for https://violetproject.net
