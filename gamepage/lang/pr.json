@@ -83,7 +83,7 @@
 		"players.searchPlaceholder": "Search players…",
 		"players.unblock": "Revive",
 		"players.usernamePlaceholder": "Username",
-		"popup.downloadItch": "Sail ye ship on itch.io!",
+		"popup.downloadItch": "Sail ye ship on {dl}",
 		"popup.info": "Ship info",
 		"popup.lastUpdate": "Last repair:",
 		"popup.madeBy": "Constructed By:",

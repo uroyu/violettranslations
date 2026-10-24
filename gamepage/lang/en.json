@@ -83,7 +83,7 @@
 		"players.searchPlaceholder": "Search players…",
 		"players.unblock": "Unblock",
 		"players.usernamePlaceholder": "Username",
-		"popup.downloadItch": "download the game on itch.io!",
+		"popup.downloadItch": "download the game on {dl}",
 		"popup.info": "Game info",
 		"popup.lastUpdate": "Last Update:",
 		"popup.madeBy": "Made By:",

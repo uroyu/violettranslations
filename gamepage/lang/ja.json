@@ -93,7 +93,7 @@
 		"players.searchPlaceholder": "プレイヤーを検索……",
 		"players.unblock": "ブロック解除",
 		"players.usernamePlaceholder": "ユーザー名",
-		"popup.downloadItch": "itch.ioでダウンロードする！",
+		"popup.downloadItch": "{dl}でダウンロードする！",
 		"popup.info": "Game info",
 		"popup.lastUpdate": "最終更新:",
 		"popup.madeBy": "制作者:",

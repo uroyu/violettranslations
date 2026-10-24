@@ -93,7 +93,7 @@
 		"players.searchPlaceholder": "Buscar jugadores…",
 		"players.unblock": "Desbloquear",
 		"players.usernamePlaceholder": "Usuario",
-		"popup.downloadItch": "descarga el juego en itch.io!",
+		"popup.downloadItch": "descarga el juego en {dl}",
 		"popup.info": "Información de juego",
 		"popup.lastUpdate": "Última actualización:",
 		"popup.madeBy": "Creado por:",
@@ -214,6 +214,7 @@
 		"tabs.other": "Otro",
 		"tabs.players": "Jugadores",
 		"tabs.settings": "Configuración",
-		"tabs.shot": "Tomar screenshot"
+		"tabs.shot": "Tomar screenshot",
+		"home.featured": "YNFG Destacado del día de hoy:"
 	}
 }

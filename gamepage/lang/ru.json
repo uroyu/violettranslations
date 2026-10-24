@@ -1,7 +1,7 @@
 {
 	"code": "RU", 
 	"name": "Русский", 
-	"rtl": false, 
+	"rtl": false,
 	"strings": {
 		"app.close": "Закрыть",
 		"app.netRetry": "Подключение утеряно, пытаемся перезагрузить {file}…",
@@ -93,7 +93,7 @@
 		"players.searchPlaceholder": "Найти игроков…",
 		"players.unblock": "Разблокировать",
 		"players.usernamePlaceholder": "Имя пользователя",
-		"popup.downloadItch": "скачайте игру на itch.io!",
+		"popup.downloadItch": "скачайте игру на {dl}",
 		"popup.info": "Про игру",
 		"popup.lastUpdate": "Обновлена:",
 		"popup.madeBy": "Сделана:",
@@ -214,6 +214,7 @@
 		"tabs.other": "Иное",
 		"tabs.players": "Игроки",
 		"tabs.settings": "Настройки",
-		"tabs.shot": "Сделать снимок экрана"
+		"tabs.shot": "Сделать снимок экрана",
+		"home.featured": "Сегодняшняя Избранная YNFG:"
 	}
 }

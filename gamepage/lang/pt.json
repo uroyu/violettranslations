@@ -1,13 +1,13 @@
 {
 	"code": "pt", 
 	"name": "Português", 
-	"rtl": false, 
+	"rtl": false,
 	"strings": {
 		"app.close": "Fechar",
 		"app.netRetry": "Conexão perdida, tentando carregar {file}…",
 		"app.reconnect": "Reconectar",
 		"app.reloadToUpdate": "Recarregue a pagina para atualizar",
-		"app.statLine": "Mapa: {map} · Jogo: {game} · Página: {site}",
+		"app.statLine": "Mapa: {map} · Jogo: {game} · Site: {site}",
 		"auth.loading": "Carregando...",
 		"auth.logIn": "Iniciar sessão",
 		"auth.logOut": "Encerrar sessão",
@@ -42,7 +42,7 @@
 		"credits.madeBy": "Site feito por Violet/violetsitas, Aura e Zarkv",
 		"credits.supportThanks": "E a todos que apoiaram este projeto, obrigado pelo apoio!!",
 		"credits.title": "Créditos",
-		"credits.wip":"Isso ainda é um trabalho em andamento, mas estou animado para ver onde vai dar :3",
+		"credits.wip": "Isso ainda é um trabalho em andamento, mas estou animado para ver onde vai dar :3",
 		"home.credits": "Créditos :3",
 		"home.language": "Idioma",
 		"home.online": "online: {n}",
@@ -93,7 +93,7 @@
 		"players.searchPlaceholder": "Buscar jogadores…",
 		"players.unblock": "Desbloquear",
 		"players.usernamePlaceholder": "Usuário",
-		"popup.downloadItch": "baixe o jogo no itch.io!",
+		"popup.downloadItch": "baixe o jogo no {dl}!",
 		"popup.info": "Informações do jogo",
 		"popup.lastUpdate": "Última atualização:",
 		"popup.madeBy": "Criado por:",
@@ -140,7 +140,7 @@
 		"settings.dividers": "Divisórias de mensagem",
 		"settings.engineScaling": "Escala da engine",
 		"settings.friendDividerPx": "Espessura da divisória de amigos",
-		"settings.friendDividers": "Divisórias da lista de amigos",
+		"settings.friendDividers": "Divisórias na lista de amigos",
 		"settings.language": "Idioma",
 		"settings.layoutInline": "Em linha",
 		"settings.layoutStacked": "Empilhado",
@@ -177,7 +177,7 @@
 		"settings.tab.audio": "Áudio",
 		"settings.tab.layout": "Layout",
 		"settings.tab.misc": "Outros",
-		"settings.tab.scale": "Escalado",
+		"settings.tab.scale": "Escala",
 		"settings.time12": "12 horas",
 		"settings.time24": "24 horas",
 		"settings.timeOff": "Desativado",
@@ -214,6 +214,7 @@
 		"tabs.other": "Outros",
 		"tabs.players": "Jogadores",
 		"tabs.settings": "Configurações",
-		"tabs.shot": "Capturar tela"
+		"tabs.shot": "Capturar tela",
+		"home.featured": "O YNFG em destaque de hoje:"
 	}
 }
