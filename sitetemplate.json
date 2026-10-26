@@ -58,6 +58,8 @@
 		"home.onlineUnknown": "online: …",
 		"home.tagline1": "A Yume Nikki fangame multiplayer hosting project currently in development",
 		"home.tagline2": "More coming soon :3",
+		"home.perms": "All games hosted with explicit permission from the developers :3".
+		"home.featured": "Today's featured YNFG:"
 		"menu.addFriend": "Add friend",
 		"menu.block": "Block",
 		"menu.cancel": "Cancel",
