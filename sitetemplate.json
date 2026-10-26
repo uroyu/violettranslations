@@ -43,6 +43,7 @@
 		"credits.supportThanks": "And to everyone who's supported this project, thank you for your support!!",
 		"credits.title": "Credits",
 		"credits.wip": "This is still a work in progress, but i'm excited to see where it will end up :3",
+		"chat.guestNotice": "Playing as guest (Click or tap for more info)"
 		"guest.title": "Guest Limitations",
 		"guest.1": "You are playing as a Guest. Guest accounts are limited in various ways, including but not limited to..."
 		"guest.2": "Location names",
@@ -125,10 +126,11 @@
 		"report.context": "Add context (optional)",
 		"report.send": "Send Report",
 		"rules.title": "Rules",
-		"rules.1": "to do",
-		"rules.2": "to do",
-		"rules.3": "to do",
-		"rules.4": "to do",
+		"rules.review": "Review rules..."
+		"rules.1": "No toxicity, sexism, racism, or bigotry",
+		"rules.2": "Be respectful, don't cause unnecessary issues.",
+		"rules.3": "Be mindful about the things/topics you speak about in the chat. For example, do not talk about explicit NSFW content (gore, nudity, etc), and be careful about using slurs.",
+		"rules.4": "Avoid having political discussions in the chat",
 		"rules.5": "Do not use scripts or override game assets (or any other means) to",
 		"rules.5a": "facilitate displaying harmful or otherwise inappropriate content to other users of the site",
 		"rules.5b": "undermine the player experience of the website",
