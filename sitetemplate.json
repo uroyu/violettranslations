@@ -59,7 +59,7 @@
 		"home.tagline1": "A Yume Nikki fangame multiplayer hosting project currently in development",
 		"home.tagline2": "More coming soon :3",
 		"home.perms": "All games hosted with explicit permission from the developers :3",
-		"home.featured": "Today's featured YNFG:"
+		"home.featured": "Today's featured YNFG:",
 		"menu.addFriend": "Add friend",
 		"menu.block": "Block",
 		"menu.cancel": "Cancel",
@@ -128,7 +128,7 @@
 		"report.context": "Add context (optional)",
 		"report.send": "Send Report",
 		"rules.title": "Rules",
-		"rules.review": "Review rules..."
+		"rules.review": "Review rules...",
 		"rules.1": "No toxicity, sexism, racism, or bigotry",
 		"rules.2": "Be respectful, don't cause unnecessary issues.",
 		"rules.3": "Be mindful about the things/topics you speak about in the chat. For example, do not talk about explicit NSFW content (gore, nudity, etc), and be careful about using slurs.",
@@ -248,6 +248,6 @@
 		"tabs.other": "Other",
 		"tabs.players": "Players",
 		"tabs.settings": "Settings",
-		"tabs.shot": "Take screenshot"
+		"tabs.shot": "Take screenshot",
 	}
 }
