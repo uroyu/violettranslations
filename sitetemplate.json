@@ -248,6 +248,13 @@
 		"tabs.other": "Other",
 		"tabs.players": "Players",
 		"tabs.settings": "Settings",
-		"tabs.shot": "Take screenshot"
+		"tabs.shot": "Take screenshot",
+		"sortBy.dateAdded": "Recently Added",
+        "sortBy.releaseDate": "Release Date",
+        "sortBy.lastUpdate": "Last Update",
+        "sortBy.authors": "Authors",
+        "sortBy.name": "Game Name",
+        "sortBy.playerCount": "Player Count",
+		"home.sortGames": "Sort Games"
 	}
 }
