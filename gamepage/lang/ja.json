@@ -248,5 +248,12 @@
 		"tabs.players": "プレイヤー",
 		"tabs.settings": "設定",
 		"tabs.shot": "スクリーンショットを撮る"
+		"sortBy.dateAdded": "追加順",
+        "sortBy.releaseDate": "リリース順",
+        "sortBy.lastUpdate": "最終更新順",
+        "sortBy.authors": "開発者名順",
+        "sortBy.name": "ゲーム名順",
+        "sortBy.playerCount": "プレイヤー数順",
+		"home.sortGames": "ゲームを並び替え"
 	}
 }
