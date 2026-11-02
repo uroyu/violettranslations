@@ -255,6 +255,7 @@
         "sortBy.authors": "Authors",
         "sortBy.name": "Game Name",
         "sortBy.playerCount": "Player Count",
-		"home.sortGames": "Sort Games"
+		"home.sortGames": "Sort Games",
+		"home.privacy": "Privacy Policy"
 	}
 }
