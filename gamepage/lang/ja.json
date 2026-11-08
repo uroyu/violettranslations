@@ -254,7 +254,7 @@
         "sortBy.authors": "開発者名順",
         "sortBy.name": "ゲーム名順",
         "sortBy.playerCount": "プレイヤー数順",
-		"home.sortGames": "ゲームを並び替え"
+		"home.sortGames": "ゲームを並び替え",
 		"home.privacy": "プライバシーポリシー"
 	}
 }
